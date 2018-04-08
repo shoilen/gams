@@ -1,5 +1,5 @@
 file 3 common file
 line 1
-line 2
+line 2: Great
 line 3
 end of file
