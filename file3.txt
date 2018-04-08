@@ -1,9 +1,5 @@
 file 3 common file
 line 1
-<<<<<<< HEAD
-line 2: Awesome
-=======
-line 2: Great
->>>>>>> 59096db7731170b580f00ce80b32f93a0f3fdb11
+line 2: Awesome, Great
 line 3
 end of file
