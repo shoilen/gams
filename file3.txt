@@ -1,5 +1,0 @@
-file 3 common file
-line 1
-line 2: Awesome, Great
-line 3
-end of file
