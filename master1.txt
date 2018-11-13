@@ -1,3 +1,1 @@
 1st line
-3rd commit_1
-3rd commit_2
